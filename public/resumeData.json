@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "PAVAN KUMAR CN",
+    "occupation": "Fresh Graduate",
+    "description": "Seeking an entry-level position to begin my career ",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am PAVAN! I've been coding for 1 year now, Along the journey I realised my passion and Seeking an entry-level position to begin my career in a high-level professional environment where I can fullyutilize my training and skills, while significantly contributing to the success of the company.",
+    "contactmessage": "Get in touch with me !",
+    "email": "pavankumarcn53@gmail.com",
+    "phone": "+91 8095625189",
+    "address": {
+      "street": "#390, 1st ward Rajiv Gandhi Nagar,Doddaballapur.",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "561203"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1LVt9CvcEUngvxXd0i-EP0HHD2FcTXr85/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCX48l6hYNvu9ew__yYeiWTw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/pavan.colour",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pavan-kumar-cn-57763b1ba/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pavan_yash_reddy/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pavan-kumarcn53",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Presidency University, Bangalore",
+        "degree": "Bachelor's Degree, Information Science",
+        "graduation": "August 2018 - July 2022",
+        "description": "Graduating with First Class Honors"
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "JAVA",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      
+      {
+        "name": "React",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My Portfolio",
+        "category": "",
+        "image": "portfolio image.png",
+        "url": "https://aquamarine-hummingbird-59a919.netlify.app/"
+      },
+      {
+        "title": "My Gaming Website",
+        "category": "",
+        "image": "gaming website.png",
+        "url": "https://pavan-gaming-website.netlify.app/"
+      },
+      {
+        "title": "Distaance-Matrix-routing",
+        "category": "",
+        "image": "Distance-matrix.jpg",
+        "url": "https://distance-matrix-routing-hmmmnry4j-pavan-kumarcn53.vercel.app/"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Pavan is absolutely excellent, his depth of knowledge & his ideas really meant a lot to us... I would definitely recommend him .",
+        "user": "Ajay Reddy"
+      },
+      {
+        "text": "Learning with Pavan has been awesome, he makes learning  so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Blessed Prince"
+      }
+    ]
+  }
+}
